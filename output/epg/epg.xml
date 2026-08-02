@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260801204510 +0800">
+<tv date="20260802080028 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -17325,7 +17325,7 @@
 	<programme channel="都市剧场" start="20260801235000 +0800" stop="20260801235400 +0800">
 		<title lang="zh">精彩赏析:宜昌保卫战(5)</title>
 	</programme>
-	<programme channel="都市剧场" start="20260801235400 +0800" stop="20260802012500 +0800">
+	<programme channel="都市剧场" start="20260801235400 +0800" stop="20260802000000 +0800">
 		<title lang="zh">大男孩亨利</title>
 	</programme>
 	<programme channel="都市剧场" start="20260802012500 +0800" stop="20260802013500 +0800">
@@ -18087,7 +18087,7 @@
 	<programme channel="金鹰纪实" start="20260801232000 +0800" stop="20260801235000 +0800">
 		<title lang="zh">传奇</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260801235000 +0800" stop="20260802003000 +0800">
+	<programme channel="金鹰纪实" start="20260801235000 +0800" stop="20260802000000 +0800">
 		<title lang="zh">看世界</title>
 	</programme>
 	<programme channel="金鹰纪实" start="20260802003000 +0800" stop="20260802010000 +0800">
